@@ -1,3 +1,3 @@
 # CPP-Data-Structures
 
-Custom Data Structures in C++
+Custom STL-like Data Structures in C++
